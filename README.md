@@ -8,3 +8,6 @@
 <img width="672" height="583" alt="Снимок экрана от 2025-08-08 23-58-49" src="https://github.com/user-attachments/assets/5fce0400-2603-4548-bcea-031dca787751" />
 
 (Это чёрная мамба, и да, она и правда ядовита)
+
+
+Работа велась в Goggle Colab, выложенный выше код - нарезки одного блокнота. dataset_split.py - разбиение набора данных, model.py - нейросеть, training.py - обучение (с сохранением весов) и prediction.py - прогноз по фотографии с готовыми весами нейросети (snake_venom_classifier.pth).
